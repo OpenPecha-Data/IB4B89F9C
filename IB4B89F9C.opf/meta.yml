@@ -1,0 +1,21 @@
+id: IB4B89F9C
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-LC-015
+  title: ''
+  author: མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
+  sku: MIN-LC-015
+  cover: MIN-LC-015.jpg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: MIN-LC-015
+  cover: MIN-LC-015.jpg
+layers:
+- Author
+- Chapter
+- Commentary
+- Sabche
