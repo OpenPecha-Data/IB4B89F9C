@@ -2,15 +2,16 @@ id: IB4B89F9C
 initial_creation_type: ebook
 source_metadata:
   id: MIN-LC-015
-  title: ''
+  title: དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསང་བདག་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
   author: མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
   authors: &id001
   - མཛད་པ་པོ། ལོ་ཆེན་དྷརྨ་ཤྲཱི། ངག་དབང་ཆོས་དཔལ་རྒྱ་མཚོ།
   sku: MIN-LC-015
   cover: MIN-LC-015.jpg
   volume: {}
+  title_source: epub:dc:title
 ebook_metadata:
-  title: ''
+  title: དཔལ་གསང་བའི་སྙིང་པོ་དེ་ཁོ་ན་ཉིད་ངེས་པའི་རྒྱུད་ཀྱི་འགྲེལ་པ་གསང་བདག་དགོངས་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors: *id001
   sku: MIN-LC-015
   cover: MIN-LC-015.jpg
